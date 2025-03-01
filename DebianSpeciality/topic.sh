@@ -1,5 +1,6 @@
 # !/bin/bash
 gnome-extensions enable dash-to-dock@micxgx.gmail.com
+gnome-extensions enable ubuntu-appindicators@ubuntu.com
 SCHEMA="org.gnome.desktop.wm.preferences"
 gsettings set $SCHEMA button-layout 'close,minimize,maximize:'
 mkdir ~/.themes/
