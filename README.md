@@ -1,2 +1,2 @@
-# KnowledgeCard
+# Endless Treasury
 Knowledge Card
